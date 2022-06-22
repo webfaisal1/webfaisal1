@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Faisasl</h1>
 <h3 align="center">Front End Developer</h3>
-<img align="right" alt="coding" width="400" scr="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif">
+<img align="right" width="400" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-mohammad-faisal&label=Profile%20views&color=0e75b6&style=flat" alt="developer-mohammad-faisal" /> </p>
 
