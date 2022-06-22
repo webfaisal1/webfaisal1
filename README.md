@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Faisal</h1>
-<h3 align="center">Front End Developer</h3>
-<p align="center"> Creating sophisticated, user-friendly and optimized websites is really my passion. I have gained experience in coding websites with a variety of frameworks as well as libraries. I have good knowledge of JavaScript, React JS, MongoDB, NodeJS, Firebase, HTML, CSS, Bootstrap and TailwindCSS. </p>
+<h3 align="left">Front End Developer</h3>
+<p align="left"> Creating sophisticated, user-friendly and optimized websites is really my passion. I have gained experience in coding websites with a variety of frameworks as well as libraries. I have good knowledge of JavaScript, React JS, MongoDB, NodeJS, Firebase, HTML, CSS, Bootstrap and TailwindCSS. </p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-mohammad-faisal&label=Profile%20views&color=0e75b6&style=flat" alt="developer-mohammad-faisal" /> </p>
