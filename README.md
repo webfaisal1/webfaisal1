@@ -15,13 +15,13 @@
 
 - 👯 I’m looking to collaborate on **Github**
 
-- 👨‍💻 All of my projects are available at [https://webmohammadfaisal.netlify.app/](https://webmohammadfaisal.netlify.app/)
+- 👨‍💻 All of my projects are available at [Mohammad Faisal Portfolio](https://webmohammadfaisal.netlify.app/)
 
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **web.mohammad.faisal@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15yE9Y1a6ZXT1iq6EXtLPdCicPXrNzTQD/view](https://drive.google.com/file/d/15yE9Y1a6ZXT1iq6EXtLPdCicPXrNzTQD/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/15yE9Y1a6ZXT1iq6EXtLPdCicPXrNzTQD/view)
 
 - ⚡ Fun fact **I am funny**
 
