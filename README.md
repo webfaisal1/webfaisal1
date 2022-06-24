@@ -1,5 +1,5 @@
 <!-- Heading -->
-<h3 align="center"> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/developer-mohammad-faisal/developer-mohammad-faisal/main/wave.gif" width ="25">
+<h3 align="center"> Hello Fellow < Developers/ > <img src = "https://raw.githubusercontent.com/developer-mohammad-faisal/developer-mohammad-faisal/main/wave.gif" width ="25">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&lines=I'm+Mohammad+Faisal;Front+End+Developer)](https://git.io/typing-svg) 
 </h3>
