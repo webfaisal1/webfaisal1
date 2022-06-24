@@ -28,7 +28,8 @@
 - ⚡ Fun fact **I am funny**
 
 <!--  Skills  -->
-<h2 align="center">My Skill Set <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="32"></h2>
+
+<div align="center"> <h2>My Skill Set <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="32"></h2></div>
   
 <table align="center"><tr><td valign="top" width="33%">
 <h3 align="center">Frontend</h3>
