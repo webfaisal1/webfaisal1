@@ -7,7 +7,9 @@
 <h3 align="left">About Us</h3>
 <p align="left"> Creating sophisticated, user-friendly and optimized websites is really my passion. I have gained experience in coding websites with a variety of frameworks as well as libraries. I have good knowledge of JavaScript, React JS, MongoDB, NodeJS, Firebase, HTML, CSS, Bootstrap and TailwindCSS. </p>
 
-<img align="right" width="350" src="https://raw.githubusercontent.com/developer-mohammad-faisal/developer-mohammad-faisal/main/animation_500_kxa883sd.gif" />
+
+<img align="right" src="https://raw.githubusercontent.com/jobairshakib/jobairshakib/main/animation_500_kxa883sd.gif" alt="jobairshakib" height="300" width="300" />
+
 
 - 🔭 I’m currently working on **Developer Build**
 
@@ -64,7 +66,7 @@
 
 
 <!-- Contact Section -->
-<h1 align="center">Connect with me <img src='https://raw.githubusercontent.com/developer-mohammad-faisal/developer-mohammad-faisal/main/handshake.gif' width="60"> </h1>
+<h1 align="center">Connect with me <img src='https://raw.githubusercontent.com/jobairshakib/jobairshakib/main/handshake.gif' width="60"> </h1>
 <div align="center">
 <a href="https://linkedin.com/in/developer-mohammad-faisal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="developer-mohammad-faisal" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/mohammad-faisal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mohammad-faisal" height="30" width="40" /></a>
