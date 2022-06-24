@@ -1,8 +1,4 @@
-<img src="https://user-images.githubusercontent.com/96827043/175515032-85a614ee-2a46-4d9f-a16d-e6b64cf74309.gif" alt="faisal" />
-
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/96827043/175519375-a128e7ac-07a5-4493-a55a-af20dd43e5be.gif)
-
-
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/96827043/175515032-85a614ee-2a46-4d9f-a16d-e6b64cf74309.gif)
 
 <!-- Heading -->
 
