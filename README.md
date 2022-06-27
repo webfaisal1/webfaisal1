@@ -1,4 +1,3 @@
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/96827043/175515032-85a614ee-2a46-4d9f-a16d-e6b64cf74309.gif)
 
 <!-- Heading -->
 
@@ -8,7 +7,7 @@
 </h3>
 
 
-<h3 align="left">About Us</h3>
+<h3 align="left">About me</h3>
 <p align="left"> Creating sophisticated, user-friendly and optimized websites is really my passion. I have gained experience in coding websites with a variety of frameworks as well as libraries. I have good knowledge of JavaScript, React JS, MongoDB, NodeJS, Firebase, HTML, CSS, Bootstrap and TailwindCSS. </p>
 
 
