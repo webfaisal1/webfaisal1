@@ -2,7 +2,7 @@
 
 <!-- Heading -->
 
-<h3 align="center"> Hello Fellow < Developers/ > <img src = "https://raw.githubusercontent.com/developer-mohammad-faisal/developer-mohammad-faisal/main/wave.gif" width ="25">
+<h3 align="center"> Hello Fellow < Developers/ > <img src = "https://raw.githubusercontent.com/webfaisal1/webfaisal1/main/wave.gif" width ="25">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&lines=I'm+Mohammad+Faisal;Front+End+Developer)](https://git.io/typing-svg) 
 </h3>
@@ -73,14 +73,14 @@
 <!-- Contact Section -->
 <h1 align="center">Connect with me <img src='https://raw.githubusercontent.com/jobairshakib/jobairshakib/main/handshake.gif' width="60"> </h1>
 <div align="center">
-<a href="https://linkedin.com/in/developer-mohammad-faisal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="developer-mohammad-faisal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/webfaisal1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="webfaisal1" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/mohammad-faisal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mohammad-faisal" height="30" width="40" /></a>
 <a href="https://fb.com/web.mohammad.faisal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="web.mohammad.faisal" height="30" width="40" /></a>
 <a href="https://instagram.com/faisal85412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faisal85412" height="30" width="40" /></a>
 <br/>  
 <br/>
 
-[![Github](https://img.shields.io/github/followers/developer-mohammad-faisal?label=Follow&style=social)](https://github.com/developer-mohammad-faisal)&nbsp;![Profile views](https://gpvc.arturio.dev/developer-mohammad-faisal)
+[![Github](https://img.shields.io/github/followers/webfaisal1?label=Follow&style=social)](https://github.com/webfaisal1)&nbsp;![Profile views](https://gpvc.arturio.dev/webfaisal1)
 
 </div>
 
@@ -89,11 +89,11 @@
    <table align="center">
    <h1 align="center">Github Stats</h1>
        <tr>
-       <td align="center" width="50%"><img alt="developer-mohammad-faisal:: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=developer-mohammad-faisal&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
-       <td align="center" width="50%"><img alt="developer-mohammad-faisal:: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-mohammad-faisal&langs_count=14&theme=blue-green&layout=compact&hide=html&hide_border=true"> </td>
+       <td align="center" width="50%"><img alt="webfaisal1:: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=webfaisal1&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
+       <td align="center" width="50%"><img alt="webfaisal1:: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webfaisal1&langs_count=14&theme=blue-green&layout=compact&hide=html&hide_border=true"> </td>
      </tr>
      <tr>
-        <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=developer-mohammad-faisal&theme=blue-green&hide_border=true"></td>
+        <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=webfaisal1&theme=blue-green&hide_border=true"></td>
      </tr>
    </table>
 </p>
@@ -102,8 +102,8 @@
 
 <div align="center"> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=developer-mohammad-faisal&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=webfaisal1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=developer-mohammad-faisal)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=webfaisal1)
