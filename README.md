@@ -21,7 +21,7 @@
 
 - 👯 I’m looking to collaborate on **Github**
 
-- 👨‍💻 All of my projects are available at [Project](https://webmohammadfaisal.netlify.app/)
+- 👨‍💻 All of my projects are available at [Project](https://webfaisal1.netlify.app/)
 
 - 💬 Ask me about **MERN**
 
